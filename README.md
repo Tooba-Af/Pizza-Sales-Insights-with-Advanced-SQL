@@ -70,4 +70,3 @@ Level 1 Task: Sales Performance Dashboard in Excel
 
 Covered Topics: Data Cleaning | Pivot Tables | Business Metrics
 
-Bonus: Added Slicers & YoY/MoM Analysis
